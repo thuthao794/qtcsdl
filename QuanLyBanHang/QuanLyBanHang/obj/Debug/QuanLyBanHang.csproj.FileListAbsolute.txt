@@ -1,0 +1,11 @@
+C:\Users\PC\OneDrive - The University of Technology\Documents\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\PC\OneDrive - The University of Technology\Documents\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\PC\OneDrive - The University of Technology\Documents\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\PC\OneDrive - The University of Technology\Documents\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - The University of Technology\Documents\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+C:\Users\PC\OneDrive - The University of Technology\Documents\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\PC\OneDrive - The University of Technology\Documents\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive - The University of Technology\Documents\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - The University of Technology\Documents\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\PC\OneDrive - The University of Technology\Documents\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\PC\OneDrive - The University of Technology\Documents\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
